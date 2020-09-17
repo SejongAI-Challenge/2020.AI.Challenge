@@ -7,6 +7,6 @@
 ### AI 챌린지 사전 교육 및 연습 문제 관련
 
 ### AI 챌린지 질의 응답 오픈 카톡방
-- [링크](https://open.kakao.com/o/gYjJ1qxc) 
+- https://open.kakao.com/o/gYjJ1qxc
 
 
