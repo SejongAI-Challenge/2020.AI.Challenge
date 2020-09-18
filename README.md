@@ -21,6 +21,7 @@
 
 ### 문제 예시
 - 연습 문제 오픈 전 문제 예시 
+
 | | 문제 예시 | 기타 | 
 |:--:|:--:|:--:|
 | 1 | [배추 가격 예측 문제](https://www.kaggle.com/c/2020-ai-exam-cabbage) | Regression |
