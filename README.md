@@ -18,8 +18,8 @@
 
 
 ### 연습 문제
-- 문제1: 오픈 예정
-- 문제2: 오픈 예정
+- 문제1-당뇨병 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-1/
+- 문제2-따릉이 사용자 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-2
 
 ### 문제 예시
 - 연습 문제 오픈 전 문제 예시 
