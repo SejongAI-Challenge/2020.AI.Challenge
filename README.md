@@ -10,25 +10,16 @@
 - 카드 뉴스를 통한 홍보: 오픈 예정
 - Zoom 을 이용한 화면 녹화 관련 사전 교육: 오픈 예정
 
-### 사전 교육 
+### 사전 교육 (Tools) 
 - 담당자: 이현석 교수님
 - Kaggle 사용법 사전 교육: 오픈 예정
 - Kaggle Notebook 사용법 사전 교육: 오픈 예정
 - Colab 사용법 사전 교육: 오픈 예정
 
 
-### 연습 문제
+### 사전 문제 (문제 예시) 
 - 문제1-당뇨병 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-1/
 - 문제2-따릉이 사용자 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-2
-
-### 문제 예시
-- 연습 문제 오픈 전 문제 예시 
-
-| | 문제 예시 | 기타 | 
-|:--:|:--:|:--:|
-| 1 | [배추 가격 예측 문제](https://www.kaggle.com/c/2020-ai-exam-cabbage) | Regression |
-| 2 | [당뇨병 예측 문제](https://www.kaggle.com/c/2020-ai-exam-diabetes) | Classification |
-| 3 | [따릉이 사용자 예측 문제](https://www.kaggle.com/c/2020-ai-exam-biker) | Regression | 
 
 
 ### 질의 응답 오픈 카톡방
