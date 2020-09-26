@@ -2,10 +2,10 @@
 
 ### 공고문
 - 담당자: 최유경 교수님
-- [두드림 공고문], [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8C%E1%85%A6%201%E1%84%92%E1%85%AC%20AI%20%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB.pdf)
+- [두드림 공고문](https://do.sejong.ac.kr/ko/program/all/view/1288), [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8C%E1%85%A6%201%E1%84%92%E1%85%AC%20AI%20%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB.pdf)
 
 ### 홍보
-- 담당자: 김세원교수님
+- 담당자: 김세원교수님, 김성한 교수님
 - 동영상을 통한 홍보: 오픈 예정
 - 카드 뉴스를 통한 홍보: 오픈 예정
 - Zoom 을 이용한 화면 녹화 관련 사전 교육: 오픈 예정
