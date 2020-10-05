@@ -17,6 +17,7 @@
 
 
 ### 사전 문제 (문제 예시) 
+- 담당자: 최유경 
 - 문제1-당뇨병 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-1/
 - 문제2-따릉이 사용자 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-2
 
