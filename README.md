@@ -6,8 +6,8 @@
 
 ### 홍보
 - 담당자: 김세원교수님
-- 동영상을 통한 홍보: https://www.youtube.com/watch?v=ybQCMoK3HEs
-- 카드 뉴스를 통한 홍보: 오픈 예정
+- 동영상을 통한 홍보: [Youtube](https://www.youtube.com/watch?v=ybQCMoK3HEs)
+- 카드 뉴스를 통한 홍보: [세종 소융 페이스북](https://www.facebook.com/1771203086536080/posts/2833640790292299/?sfnsn=mo)
 - Zoom 을 이용한 화면 녹화 관련 사전 교육: 오픈 예정
 
 ### 사전 교육 (Tools) 
