@@ -11,8 +11,7 @@
 
 ### 캐글 출제 사전 교육 (툴)
 - 담당자: 최유경 교수님
-- 동영상을 통한 따라하기: [비디오](https://youtu.be/g1STw4M8MNY)
-- PDF를 통한 따라하기: [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8F%E1%85%A2%E1%84%80%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%87%E1%85%A9%E1%84%83%E1%85%B3%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.pdf)
+- 동영상을 통한 따라하기: [비디오](https://youtu.be/g1STw4M8MNY), [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8F%E1%85%A2%E1%84%80%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%87%E1%85%A9%E1%84%83%E1%85%B3%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.pdf)
 
 ### 캐글 사용법 사전 교육 (툴) 
 - 담당자: 이현석 교수님
