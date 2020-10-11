@@ -24,7 +24,7 @@
 - 문제1-당뇨병 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-1/
 - 문제2-따릉이 사용자 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-2
 
-### 대회 관련 교육
+### 대회  교육
 - 담당자: 최유경 교수님, 10월 26일부터 
 - Zoom 을 이용한 화면 녹화 관련 사전 교육
 - 발표자료 녹화 관련 팁 교육
