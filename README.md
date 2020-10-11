@@ -18,13 +18,17 @@
 - 담당자: 이현석 교수님, 10월 12일부터 시청 가능
 - Kaggle 사용법 사전 교육
 - Kaggle Notebook 사용법 사전 교육
-- Zoom 을 이용한 화면 녹화 관련 사전 교육: 오픈 예정
-
 
 ### 사전 문제 (문제 예시) 
 - 담당자: 최유경 
 - 문제1-당뇨병 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-1/
 - 문제2-따릉이 사용자 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-2
+
+### 대회 관련 교육
+- 담당자: 최유경 교수님, 10월 26일부터 
+- Zoom 을 이용한 화면 녹화 관련 사전 교육
+- 발표자료 녹화 관련 팁 교육
+
 
 ### 경시대회 출제위원
 - 김미숙, 김성한, 이현석, 최유경 
