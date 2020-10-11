@@ -6,7 +6,7 @@
 
 ### 홍보
 - 담당자: 김세원교수님
-- 동영상을 통한 홍보: [Youtube](https://www.youtube.com/watch?v=ybQCMoK3HEs)
+- 동영상을 통한 홍보: [비디오1](https://www.youtube.com/watch?v=ybQCMoK3HEs), [비디오2](https://youtu.be/HNR5JTR3W9Y)
 - 카드 뉴스를 통한 홍보: [세종 소융 페이스북](https://www.facebook.com/1771203086536080/posts/2833640790292299/?sfnsn=mo)
 
 ### 캐글 리더보드 생성 교육
