@@ -5,7 +5,7 @@
 - [두드림 공고문](https://do.sejong.ac.kr/ko/program/all/view/1288), [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8C%E1%85%A6%201%E1%84%92%E1%85%AC%20AI%20%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB.pdf)
 
 ### 홍보
-- 담당자: 김세원교수님
+- 담당자: 김세원, 최유경 교수님
 - 동영상을 통한 홍보: [비디오1](https://www.youtube.com/watch?v=ybQCMoK3HEs), [비디오2](https://youtu.be/HNR5JTR3W9Y)
 - 카드 뉴스를 통한 홍보: [세종 소융 페이스북](https://www.facebook.com/1771203086536080/posts/2833640790292299/?sfnsn=mo)
 
