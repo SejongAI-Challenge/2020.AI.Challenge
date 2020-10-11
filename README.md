@@ -23,16 +23,16 @@
 - 담당자: 최유경 
 - 문제1-당뇨병 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-1/
   - 해설 영상 관련: 아래의 해설 영상은 베이스 라인으로 제공된 부분의 해설 영상입니다. 초보자를 위한 참고용으로만 제공되는 것입니다. 
-  - 해설 영상 1: [SVM](https://youtu.be/mTuPfKRjZfA)
-  - 해설 영상 2: [Random Forest](https://youtu.be/8PIbBqcENbs)
-  - 해설 영상 3: [KNN](https://youtu.be/x8nSr_9ZkLw)
-  - 해설 영상 4: [NN](https://youtu.be/KSNkC6ymFDI)
+  - 해설 영상 1: [SVM](https://youtu.be/mTuPfKRjZfA), [Notebook-Code](https://www.kaggle.com/kjwdubu/pretest-1-svmclassifier)
+  - 해설 영상 2: [Random Forest](https://youtu.be/8PIbBqcENbs), [Notebook-Code](https://www.kaggle.com/jowoen/pretest-1-randomforestclassifier)
+  - 해설 영상 3: [KNN](https://youtu.be/x8nSr_9ZkLw), [Notebook-Code](https://www.kaggle.com/daechanhan/knn-baseline-0-80)
+  - 해설 영상 4: [NN](https://youtu.be/KSNkC6ymFDI), [Notebook-Code](https://www.kaggle.com/xown3197/dnn-0-775)
 - 문제2-따릉이 사용자 예측 문제: https://www.kaggle.com/c/sejongai-challenge-pretest-2
   - 해설 영상 관련: 아래의 해설 영상은 베이스 라인으로 제공된 부분의 해설 영상입니다. 초보자를 위한 참고용으로만 제공되는 것입니다. 
-  - 해설 영상 1: [SVM](https://youtu.be/72Aohx3SjsI)
-  - 해설 영상 2: [Random Forest](https://youtu.be/QBDbu3kfncg)
-  - 해설 영상 3: [KNN](https://youtu.be/T8PJyEbHGxg)
-  - 해설 영상 4: [NN](https://youtu.be/n9EvKJ9CJHw)
+  - 해설 영상 1: [SVM](https://youtu.be/72Aohx3SjsI), [Notebook-Code](https://www.kaggle.com/kjwdubu/pretest-2-svmregressor)
+  - 해설 영상 2: [Random Forest](https://youtu.be/QBDbu3kfncg), [Notebook-Code](https://www.kaggle.com/jowoen/pretest-2-randomforestregressor)
+  - 해설 영상 3: [KNN](https://youtu.be/T8PJyEbHGxg), [Nodebook-Code](https://www.kaggle.com/daechanhan/knn-baseline-67-28)
+  - 해설 영상 4: [NN](https://youtu.be/n9EvKJ9CJHw), [Notebook-Code](https://www.kaggle.com/xown3197/dnn-70-22)
 
 ### 대회  교육
 - 담당자: 최유경 교수님, 10월 26일부터 
