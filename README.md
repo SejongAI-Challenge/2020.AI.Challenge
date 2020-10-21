@@ -1,8 +1,12 @@
 ## 제 1회 인공지능 챌린지
 
+
+
 ### 공고문
 - 담당자: 최유경 교수님
 - [두드림 공고문](https://do.sejong.ac.kr/ko/program/all/view/1288), [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8C%E1%85%A6%201%E1%84%92%E1%85%AC%20AI%20%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB.pdf)
+- 1차캐글: 11월 2일(월)
+- 2차발표: 11월 6일(금)
 
 ### 홍보
 - 담당자: 김세원, 최유경 교수님
