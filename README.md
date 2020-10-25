@@ -6,8 +6,15 @@
 - 담당자: 최유경 교수님
 - [두드림 공고문](https://do.sejong.ac.kr/ko/program/all/view/1288), [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8C%E1%85%A6%201%E1%84%92%E1%85%AC%20AI%20%E1%84%8E%E1%85%A2%E1%86%AF%E1%84%85%E1%85%B5%E1%86%AB%E1%84%8C%E1%85%B5-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%82%E1%85%A2%E1%84%86%E1%85%AE%E1%86%AB.pdf)
 - 1차캐글: 11월 2일(월)
+  - 오후 6:10 - 6:30: 웹엑스 입실 및 핸드폰 카메라 각도 조절 
+  - 오후 6:30 - 8:30: 문제 풀이 및 캐글리더보드 제출, 화면 녹화 (Zoom 권장)
+  - 오후 8:30 - 10:30: 문제 해설 영상 촬영(최대 5분) 및 유투브 링크 제출 
+  - 오후 8:30 - 12:00: 화면 녹화 영상 제출
 - 2차발표: 11월 6일(금)
-
+  - 오후 6:10 - 6:30: 웹엑스 입실 및 핸드폰 카메라 각도 조절 
+  - 오후 6:30 - 10:30: 질의 응답 (해설영상시청 + 질의응답: 총 10분/인)
+  
+  
 ### 홍보
 - 담당자: 김세원, 최유경 교수님
 - 동영상을 통한 홍보: [비디오1](https://www.youtube.com/watch?v=ybQCMoK3HEs), [비디오2](https://youtu.be/HNR5JTR3W9Y)
@@ -17,10 +24,12 @@
 - 담당자: 최유경 교수님
 - 동영상을 통한 따라하기: [비디오](https://youtu.be/g1STw4M8MNY), [PDF](https://github.com/SejongAI-Challenge/2020.AI.Challenge/blob/master/%E1%84%8F%E1%85%A2%E1%84%80%E1%85%B3%E1%86%AF%E1%84%85%E1%85%B5%E1%84%83%E1%85%A5%E1%84%87%E1%85%A9%E1%84%83%E1%85%B3%E1%84%86%E1%85%A1%E1%86%AB%E1%84%83%E1%85%B3%E1%86%AF%E1%84%80%E1%85%B5.pdf)
 
+
 ### 캐글 사용법 사전 교육 (툴) 
 - 담당자: 이현석 교수님
 - Kaggle 사용법 사전 교육: [비디오](https://youtu.be/jwMMd3yFFXI)
 - Kaggle Notebook 사용법 사전 교육: [비디오](https://youtu.be/U0ikpjGhNbg)
+
 
 ### 사전 문제 (문제 예시) 
 - 담당자: 최유경 
@@ -37,14 +46,13 @@
   - 해설 영상 3: [KNN](https://youtu.be/T8PJyEbHGxg), [Nodebook-Code](https://www.kaggle.com/daechanhan/knn-baseline-67-28)
   - 해설 영상 4: [NN](https://youtu.be/n9EvKJ9CJHw), [Notebook-Code](https://www.kaggle.com/xown3197/dnn-70-22)
 
+
 ### 대회  교육
 - 담당자: 최유경 교수님, 10월 26일부터 
 - Zoom 을 이용한 화면 녹화 관련 사전 교육
 - 발표자료 녹화 관련 팁 교육
 
 
-### 경시대회 출제위원
-- 김미숙, 김성한, 이현석, 최유경 
 
 ### 질의 응답 오픈 카톡방
 - 사전 교육 및 연습 문제 관련 질의 응답 가능 (무엇이든지 물어보세요. 초보자들을 위해 만든 방입니다)
