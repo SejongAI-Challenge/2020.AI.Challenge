@@ -23,6 +23,6 @@
 | 2 | 캐글 사용법 사전 교육 영상  |  2020.10.05 | [비디오](https://github.com/SejongAI-Challenge/2020.AI.Challenge/issues/3) |
 | 3 | 캐글 예시 문제 풀이 영상  |  2020.10.12 | [비디오](https://github.com/SejongAI-Challenge/2020.AI.Challenge/issues/4) |
 | 4 | 화면 녹화 교육 영상  |  2020.10.26 | [비디오](https://github.com/SejongAI-Challenge/2020.AI.Challenge/issues/5) |
-
+| 5 | 문제 해설 영상 제출 방법 교육 영상  |  2020.10.26 | [비디오](https://youtu.be/9IxpL8wGzPU) |
 
 
